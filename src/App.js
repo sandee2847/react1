@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <h1>
-      hello react js
+      React js Is a javascript Library
     </h1>
   );
 }
